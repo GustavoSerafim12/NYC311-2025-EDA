@@ -1,0 +1,3 @@
+# NYC311-2025-EDA
+
+This project demonstrates rigorous exploratory data analysis on a real-world municipal dataset as part of an intensive self-study program. The analysis covers the full EDA pipeline: data loading and auditing, principled cleaning with documented reasoning, univariate and multivariate visualization, and extraction of actionable insights. The goal is not exhaustive modeling, but rather to develop the methodological discipline and clarity expected in applied data science research—clean code, defensible preprocessing decisions, and visualization choices grounded in questions about the data. This work reflects competency with Pandas, Matplotlib, and Seaborn, and signals readiness for research-level data work.
